@@ -1,6 +1,6 @@
 <!-- **GarciaBoo/GarciaBoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ##  👋 Hello there, I'm Bruna Garcia 👋
-I am a Computer Science student at University of São Paulo with experience in development projects. I am actively studying content that complements my work and seeking an opportunity to grow and establish a professional career as a Junior developer.
+I am a student pursuing a Bachelor's degree in Information Systems at Anhanguera, equipped with experience in development projects. Actively engaged in studying content that complements my work, I am currently seeking an opportunity to grow and establish a professional career as a Junior Developer
 
 ### Stacks and Tools
 #### Basic
@@ -36,6 +36,12 @@ I am a Computer Science student at University of São Paulo with experience in d
 
 ### ⚡ A Fun fact: I have worked on some games plushed on Itch.io.
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://garciaboo.itch.io)
+
+### 🌱 I’m currently learning ...
+Oracle Next Education Course
+
+### 🔭 I’m currently working on ... 
+https://github.com/GarciaBoo/Angular-Projects
 
 <!--
 Here are some
